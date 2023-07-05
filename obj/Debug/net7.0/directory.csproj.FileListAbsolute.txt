@@ -1,0 +1,15 @@
+C:\Users\iremc\OneDrive\Desktop\LastProjects\PATIKA\directory\bin\Debug\net7.0\directory.exe
+C:\Users\iremc\OneDrive\Desktop\LastProjects\PATIKA\directory\bin\Debug\net7.0\directory.deps.json
+C:\Users\iremc\OneDrive\Desktop\LastProjects\PATIKA\directory\bin\Debug\net7.0\directory.runtimeconfig.json
+C:\Users\iremc\OneDrive\Desktop\LastProjects\PATIKA\directory\bin\Debug\net7.0\directory.dll
+C:\Users\iremc\OneDrive\Desktop\LastProjects\PATIKA\directory\bin\Debug\net7.0\directory.pdb
+C:\Users\iremc\OneDrive\Desktop\LastProjects\PATIKA\directory\obj\Debug\net7.0\directory.csproj.AssemblyReference.cache
+C:\Users\iremc\OneDrive\Desktop\LastProjects\PATIKA\directory\obj\Debug\net7.0\directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iremc\OneDrive\Desktop\LastProjects\PATIKA\directory\obj\Debug\net7.0\directory.AssemblyInfoInputs.cache
+C:\Users\iremc\OneDrive\Desktop\LastProjects\PATIKA\directory\obj\Debug\net7.0\directory.AssemblyInfo.cs
+C:\Users\iremc\OneDrive\Desktop\LastProjects\PATIKA\directory\obj\Debug\net7.0\directory.csproj.CoreCompileInputs.cache
+C:\Users\iremc\OneDrive\Desktop\LastProjects\PATIKA\directory\obj\Debug\net7.0\directory.dll
+C:\Users\iremc\OneDrive\Desktop\LastProjects\PATIKA\directory\obj\Debug\net7.0\refint\directory.dll
+C:\Users\iremc\OneDrive\Desktop\LastProjects\PATIKA\directory\obj\Debug\net7.0\directory.pdb
+C:\Users\iremc\OneDrive\Desktop\LastProjects\PATIKA\directory\obj\Debug\net7.0\directory.genruntimeconfig.cache
+C:\Users\iremc\OneDrive\Desktop\LastProjects\PATIKA\directory\obj\Debug\net7.0\ref\directory.dll
